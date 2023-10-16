@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/KhadijaB455/COMP3104.git/static/css/main.073c9b0a.css",
-    "main.js": "/KhadijaB455/COMP3104.git/static/js/main.9eb1fd33.js",
+    "main.css": "/KhadijaB455/COMP3104.git/static/css/main.e6c13ad2.css",
+    "main.js": "/KhadijaB455/COMP3104.git/static/js/main.626ad88f.js",
     "static/js/787.71cfefd0.chunk.js": "/KhadijaB455/COMP3104.git/static/js/787.71cfefd0.chunk.js",
-    "static/media/logo.svg": "/KhadijaB455/COMP3104.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/KhadijaB455/COMP3104.git/index.html",
-    "main.073c9b0a.css.map": "/KhadijaB455/COMP3104.git/static/css/main.073c9b0a.css.map",
-    "main.9eb1fd33.js.map": "/KhadijaB455/COMP3104.git/static/js/main.9eb1fd33.js.map",
+    "main.e6c13ad2.css.map": "/KhadijaB455/COMP3104.git/static/css/main.e6c13ad2.css.map",
+    "main.626ad88f.js.map": "/KhadijaB455/COMP3104.git/static/js/main.626ad88f.js.map",
     "787.71cfefd0.chunk.js.map": "/KhadijaB455/COMP3104.git/static/js/787.71cfefd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.9eb1fd33.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.626ad88f.js"
   ]
 }
